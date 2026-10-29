@@ -1,3 +1,5 @@
 +.nimenshishangdi.cc
 # 查询公网出口ip，不配置直连可能会走代理，得到的是DNS代理出口IP
 +.icanhazip.com
++.ident.me
+checkip.amazonaws.com
