@@ -5,6 +5,8 @@
 +.pm.me
 +.protonvpn.com
 +.hcaptcha.com
++.protonweb.com
++.protonapps.com
 
 # Gmail 网页/App 登录/OAuth 认证（Claude 用 Google 登录时的跳转，关键）/账号管理
 +.mail.google.com          
