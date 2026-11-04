@@ -17,11 +17,3 @@
 
 +.sentry.io
 +.datadoghq.com
-+.gstatic.com
-
-# Gmail 网页/App 登录/OAuth 认证（Claude 用 Google 登录时的跳转，关键）/账号管理
-+.mail.google.com          
-+.accounts.google.com
-+.myaccount.google.com
-+.clients6.google.com
-+.clients5.google.com
