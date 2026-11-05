@@ -25,6 +25,10 @@
 browser-intake-us5-datadoghq.com
 +.datadoghq.com
 
+# 反欺诈 / 风控（Claude 用 Sift Science 做风险评分）
++.sift.com
++.siftscience.com
+
 # 客服 / 第三方 widget
 +.intercom.io
 +.intercomcdn.com
