@@ -1,19 +1,46 @@
+# 核心域名（必须代理）
++.anthropic.com
 +.claude.ai
 +.claude.com
-+.anthropic.com
++.clau.de
++.claudemcpclient.com
++.claudemcpcontent.com
 +.claudeusercontent.com
+
+# CDN 和基础设施
++.cdn.anthropic.com
++.anthropic.com.cdn.cloudflare.net
++.servd-anthropic-website.b-cdn.net
+
+# 认证服务
++.anthropic.auth0.com
++.anthropic-com.ghost.io
+
+# 验证码 人机验证
++.challenges.cloudflare.com
+
+# 监控和数据上报
++.sentry.io
++.statsigapi.net
+browser-intake-us5-datadoghq.com
++.datadoghq.com
+
+# 客服 / 第三方 widget
++.intercom.io
++.intercomcdn.com
++.cdn.usefathom.com
+
+
 +.claude.app
 +.claude.dev
 +.claude.new
 +.claude.site
-+.clau.de
+
 +.claudepages.dev
 +.anthropic.ai
 +.anthropic.team
 +.ant.dev
-+.challenges.cloudflare.com
 +.hcaptcha.com
 +.hcaptcha.co
 
-+.sentry.io
-+.datadoghq.com
+
